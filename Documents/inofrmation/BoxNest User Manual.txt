@@ -1,0 +1,37 @@
+BoxNest User Manual
+Introduction
+	Welcome to BoxNest – your ultimate storage management solution. 
+	This manual provides a comprehensive guide to help you navigate and utilize the features of BoxNest effectively.
+
+1. Getting Started
+	Upon launching BoxNest, you'll be greeted with the main menu. Familiarize yourself with the layout, and let's get started!
+
+2. Adding Boxes
+	Steps to Add a Box:
+
+	Navigate to the 'Add' option in the main menu.
+	Enter the box details: Number, Building, Row, Level, and Size.
+	Confirm the entry, and your box will be added to the warehouse system.
+
+3. Searching for Boxes
+	Steps to Search for a Box:
+
+	Go to the 'Search' option in the main menu.
+	Input the Box ID or relevant details.
+	The system will display the box's location and details if found.
+
+4. Removing Boxes
+	Steps to Remove a Box:
+
+	Access the 'Remove' option in the main menu.
+	Enter the Box ID of the box you wish to remove.
+	Confirm the removal, and the box will be taken out of the system.
+
+5. Advanced Features
+	Stay tuned for upcoming updates that will introduce enhanced features like:
+
+	DataBase Backups
+
+6. Contact and Support
+	For any queries, feedback, or assistance, please reach out to our support team via the 'Contact' page on our website.
+

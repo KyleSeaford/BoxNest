@@ -1,0 +1,29 @@
+Program Name: BoxNest
+Version: 1.5.1
+Developer: Kyle Seaford
+
+About the Program:
+BoxNest is a comprehensive database management tool designed to help users organize and track storage boxes within different buildings, rows, levels, and sizes. Whether you're adding new boxes, searching for existing ones, or removing 	outdated entries, BoxNest streamlines the process for efficient storage management.
+
+Key Features:
+
+Add Boxes: Easily input details of new boxes including their location and owner.
+Search Functionality: Quickly find boxes based on their unique ID.
+Remove Boxes: Remove boxes from the database when no longer needed.
+Print ID Stickers: Generate and print stickers containing the Box ID for easy box identification.
+
+System Requirements:
+
+Operating System: Windows 10 or later
+Disk Space: Minimum of 100MB
+RAM: Minimum of 2GB
+
+Installation Instructions:
+
+Ensure your system meets the specified requirements.
+Download the BoxNest installer from the official website.
+Run the installer and follow the on-screen instructions to complete the installation.
+
+Support & Feedback:
+For any questions, feedback, or technical support, 
+please contact the developer at projectst@kyle-seaford.co.uk.
