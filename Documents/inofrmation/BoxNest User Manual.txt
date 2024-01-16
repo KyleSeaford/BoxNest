@@ -27,11 +27,25 @@ Introduction
 	Enter the Box ID of the box you wish to remove.
 	Confirm the removal, and the box will be taken out of the system.
 
-5. Advanced Features
+5. Backups
+	Backups are automatically triggered under the following conditions:
+	1. The program has been running for 2 hours.
+	2. The number of database rows exceeds 30.
+
+	If you encounter any issues or need to understand why a backup occurred, refer to the detailed program log in "BoxNest.log".
+
+	Log File ("BoxNest.log"):
+	- Contains a comprehensive log of the entire program execution.
+	- Provides insights into each step and decision made by the program.
+
+	Backup Files:
+	- Backups are stored in the "backup+log" directory within the program files.
+	- Backups are stored with a naming convention: "year-month-day_time_databaseBackup.xlsx".
+	- Each backup captures the state of the database at the time of creation.
+
+6. Advanced Features
 	Stay tuned for upcoming updates that will introduce enhanced features like:
 
-	DataBase Backups
-
-6. Contact and Support
-	For any queries, feedback, or assistance, please reach out to our support team via the 'Contact' page on our website.
+7. Contact and Support
+	For any queries, feedback, or assistance, please reach out to our support team via the 'Contact' page on our website - http://test.kyle-seaford.co.uk/Contact/index.html 
 
