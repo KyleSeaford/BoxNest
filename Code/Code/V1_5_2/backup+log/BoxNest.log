@@ -1,0 +1,39 @@
+2024-01-14 23:03:03,821 - INFO - BoxNest: Script started
+2024-01-14 23:03:03,822 - INFO - Initiating database loading sequence
+2024-01-14 23:03:04,364 - INFO - Clearing command prompt for a clean interface
+2024-01-14 23:03:07,380 - INFO - Loading sequence displayed
+2024-01-14 23:03:07,906 - INFO - Clearing command prompt for a clean interface
+2024-01-14 23:03:07,907 - INFO - Displaying logo for brand recognition
+2024-01-14 23:03:07,908 - INFO - Loading sequence completed successfully
+2024-01-14 23:03:07,908 - INFO - Entering main loop for user interaction
+2024-01-14 23:03:07,939 - INFO - No conditions triggered: Database backup not needed
+2024-01-14 23:03:07,941 - INFO - User interface: Choice_Box displayed
+2024-01-14 23:03:12,350 - INFO - User made a choice. Selected option: 7
+2024-01-14 23:03:12,350 - INFO - BoxNest: database printed successfully
+2024-01-14 23:03:13,099 - INFO - Entering main loop for user interaction
+2024-01-14 23:03:13,118 - INFO - No conditions triggered: Database backup not needed
+2024-01-14 23:03:13,119 - INFO - User interface: Choice_Box displayed
+2024-01-14 23:03:15,542 - INFO - User made a choice. Selected option: 6
+2024-01-14 23:03:15,542 - INFO - BoxNest: website opened successfully
+2024-01-14 23:03:17,319 - INFO - Entering main loop for user interaction
+2024-01-14 23:03:17,356 - INFO - No conditions triggered: Database backup not needed
+2024-01-14 23:03:17,358 - INFO - User interface: Choice_Box displayed
+2024-01-14 23:03:19,278 - INFO - User made a choice. Selected option: 4
+2024-01-14 23:03:19,631 - INFO - Database access: Database opened
+2024-01-14 23:03:21,983 - INFO - Database access: Database closed
+2024-01-14 23:03:23,082 - INFO - Entering main loop for user interaction
+2024-01-14 23:03:23,125 - INFO - No conditions triggered: Database backup not needed
+2024-01-14 23:03:23,127 - INFO - User interface: Choice_Box displayed
+2024-01-14 23:03:27,759 - INFO - User made a choice. Selected option: 3
+2024-01-14 23:03:30,679 - INFO - User interaction: Searching for a box with ID: 32423423
+2024-01-14 23:03:31,180 - INFO - Database access: Box 32423423 not found in database
+2024-01-14 23:03:32,715 - INFO - Entering main loop for user interaction
+2024-01-14 23:03:32,765 - INFO - No conditions triggered: Database backup not needed
+2024-01-14 23:03:32,767 - INFO - User interface: Choice_Box displayed
+2024-01-14 23:03:36,191 - INFO - User made a choice. Selected option: find
+2024-01-14 23:03:39,471 - INFO - User interaction: User does not know the ID of the box
+2024-01-14 23:03:40,261 - INFO - Entering main loop for user interaction
+2024-01-14 23:03:40,318 - INFO - No conditions triggered: Database backup not needed
+2024-01-14 23:03:40,320 - INFO - User interface: Choice_Box displayed
+2024-01-14 23:03:43,943 - INFO - User made a choice. Selected option: quit
+2024-01-14 23:03:43,943 - CRITICAL - BoxNest: script has successfully finished
