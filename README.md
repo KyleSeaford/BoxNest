@@ -1,6 +1,6 @@
 # BoxNest
 
-Welcome to BoxNest, a unique archive and box storage system developed for warehouses. This project was one of my first projects and serves as a foundation for organizing and managing physical storage space in warehouses.
+Welcome to BoxNest, a unique archive and box storage system developed for warehouses. It serves as a foundation for organizing and managing physical storage space in warehouses.
 
 ## Overview
 
